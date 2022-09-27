@@ -21,3 +21,5 @@ public abstract class Animal {
         this.passing = passing;
     }
 }
+
+//Viktor Konovalov

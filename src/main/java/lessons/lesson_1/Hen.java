@@ -30,3 +30,5 @@ public class Hen extends Animal implements Jumpable {
         return jump_limit;
     }
 }
+
+//Viktor Konovalov

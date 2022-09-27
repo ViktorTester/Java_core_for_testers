@@ -16,3 +16,5 @@ public class Main {
         team2.passedTheDistance();
     }
 }
+
+//Viktor Konovalov

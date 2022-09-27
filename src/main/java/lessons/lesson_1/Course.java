@@ -34,3 +34,5 @@ public class Course {
         }
     }
 }
+
+//Viktor Konovalov

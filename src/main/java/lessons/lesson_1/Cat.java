@@ -44,3 +44,5 @@ public class Cat extends Animal implements Jumpable, Swimable {
         return jump_limit;
     }
 }
+
+//Viktor Konovalov

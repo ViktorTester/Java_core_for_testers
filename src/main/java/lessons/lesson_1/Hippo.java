@@ -30,3 +30,5 @@ public class Hippo extends Animal implements Swimable {
         return swim_limit;
     }
 }
+
+//Viktor Konovalov
